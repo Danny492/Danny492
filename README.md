@@ -1,12 +1,12 @@
-<h1 align="center">🚀 Sr. Software Developer & Mentor 👨‍💻</h1>
+<h1 align="center">🚀 Jr. Software Developer 👨‍💻</h1>
 
 ## 📝 About Me
 
 👋 Hi, I'm **Danny Henriquez**, a passionate **Software Architect & Full Stack Developer** with experience in:
 - 🔹 **Backend:** Java (Spring Boot), Python
-- 🔹 **Frontend:** Angular, React
-- 🔹 **Cloud & DevOps:** AWS, Kubernetes, Docker, CI/CD
-- 🔹 **Databases:** SQL & NoSQL
+- 🔹 **Frontend:** Angular
+- 🔹 **Cloud & DevOps:** AWS, Kubernetes, Docker
+- 🔹 **Databases:** MySQL
 - 🎙️ Enthusiastic about sharing knowledge through mentorship & talks.
 - 🏡 Working remotely and always looking for new challenges!
 
@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 ---
