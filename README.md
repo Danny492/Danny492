@@ -3,7 +3,7 @@
 ## 📝 About Me
 
 👋 Hi, I'm **Danny Henriquez**, a passionate **Software Architect & Full Stack Developer** with experience in:
-- 🔹 **Backend:** Java (Spring Boot), Python
+- 🔹 **Backend:** Java (Spring Boot), Python, Kotlin
 - 🔹 **Frontend:** Angular
 - 🔹 **Cloud & DevOps:** AWS, Kubernetes, Docker
 - 🔹 **Databases:** MySQL
