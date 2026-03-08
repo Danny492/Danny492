@@ -28,9 +28,9 @@
 
 ## 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+📧 Email: [your-email@example.com](mailto:dh8054302@gmail.com)  
 🌍 Website: [your-website.com](https://your-website.com)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+🔗 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/danny-alexander-henriquez-dominguez-984767205)  
 
 ---
 
