@@ -28,9 +28,8 @@
 
 ## 📬 Contact
 
-📧 Email: [your-email@example.com](mailto:dh8054302@gmail.com)  
-🌍 Website: [your-website.com](https://your-website.com)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/danny-alexander-henriquez-dominguez-984767205)  
+📧 Email: mailto:dh8054302@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/danny-alexander-henriquez-dominguez-984767205 
 
 ---
 
