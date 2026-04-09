@@ -29,7 +29,7 @@
 ## 📬 Contact
 
 📧 Email: mailto:dh8054302@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/danny-alexander-henriquez-dominguez-984767205 
+🔗 LinkedIn: www.linkedin.com/in/danny-henriquez- 
 
 ---
 
